@@ -16,7 +16,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def flightinput():
-   return render_template('copy.html')
+   return render_template('frontpage.html')
 
 
 
