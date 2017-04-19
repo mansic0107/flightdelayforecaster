@@ -1,0 +1,4226 @@
+[
+ {
+   "FIELD1": "DayOfWeek",
+   "FIELD2": "DepTime",
+   "FIELD3": "FlightNumber",
+   "FIELD4": "DepDelay"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1232",
+   "FIELD3": "2891",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1918",
+   "FIELD3": "462",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "2206",
+   "FIELD3": "1229",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1230",
+   "FIELD3": "1355",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "831",
+   "FIELD3": "2278",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1430",
+   "FIELD3": "2386",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1936",
+   "FIELD3": "409",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "944",
+   "FIELD3": "1131",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1537",
+   "FIELD3": "1212",
+   "FIELD4": "0"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1318",
+   "FIELD3": "2456",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "836",
+   "FIELD3": "2575",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "2047",
+   "FIELD3": "2608",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "2128",
+   "FIELD3": "139",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "935",
+   "FIELD3": "747",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1251",
+   "FIELD3": "933",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1729",
+   "FIELD3": "1054",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "825",
+   "FIELD3": "1106",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1042",
+   "FIELD3": "1554",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1726",
+   "FIELD3": "1604",
+   "FIELD4": "0"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1849",
+   "FIELD3": "1975",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "2219",
+   "FIELD3": "2083",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "2012",
+   "FIELD3": "2577",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1458",
+   "FIELD3": "2587",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1345",
+   "FIELD3": "2643",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "715",
+   "FIELD3": "2755",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "2119",
+   "FIELD3": "961",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1530",
+   "FIELD3": "1330",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1045",
+   "FIELD3": "1502",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "802",
+   "FIELD3": "2403",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1415",
+   "FIELD3": "976",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1630",
+   "FIELD3": "1146",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1527",
+   "FIELD3": "1240",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "731",
+   "FIELD3": "1488",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1140",
+   "FIELD3": "1596",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "2002",
+   "FIELD3": "1784",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "946",
+   "FIELD3": "2806",
+   "FIELD4": "0"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1501",
+   "FIELD3": "795",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1233",
+   "FIELD3": "851",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "0",
+   "FIELD3": "2734",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "2057",
+   "FIELD3": "2782",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "810",
+   "FIELD3": "873",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1035",
+   "FIELD3": "1184",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1714",
+   "FIELD3": "1737",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1811",
+   "FIELD3": "2217",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1946",
+   "FIELD3": "2347",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "2154",
+   "FIELD3": "2449",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1600",
+   "FIELD3": "2450",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1325",
+   "FIELD3": "2786",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "2052",
+   "FIELD3": "2790",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "905",
+   "FIELD3": "2992",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1737",
+   "FIELD3": "212",
+   "FIELD4": "0"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1101",
+   "FIELD3": "324",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1402",
+   "FIELD3": "466",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "921",
+   "FIELD3": "1488",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "2108",
+   "FIELD3": "1504",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1245",
+   "FIELD3": "1684",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1743",
+   "FIELD3": "1984",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1948",
+   "FIELD3": "2515",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1408",
+   "FIELD3": "127",
+   "FIELD4": "0"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "829",
+   "FIELD3": "528",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1953",
+   "FIELD3": "1137",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "2148",
+   "FIELD3": "1243",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1136",
+   "FIELD3": "2037",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "950",
+   "FIELD3": "2124",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1638",
+   "FIELD3": "2299",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "938",
+   "FIELD3": "654",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1439",
+   "FIELD3": "728",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1739",
+   "FIELD3": "812",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1329",
+   "FIELD3": "1803",
+   "FIELD4": "0"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1052",
+   "FIELD3": "1977",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "2128",
+   "FIELD3": "2042",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1215",
+   "FIELD3": "2588",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1634",
+   "FIELD3": "291",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1830",
+   "FIELD3": "794",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1621",
+   "FIELD3": "357",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "2050",
+   "FIELD3": "675",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "915",
+   "FIELD3": "2574",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1936",
+   "FIELD3": "1057",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "959",
+   "FIELD3": "1477",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1430",
+   "FIELD3": "522",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "2116",
+   "FIELD3": "82",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1423",
+   "FIELD3": "86",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1902",
+   "FIELD3": "939",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "908",
+   "FIELD3": "1959",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1058",
+   "FIELD3": "2108",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "2112",
+   "FIELD3": "198",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1657",
+   "FIELD3": "1880",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1649",
+   "FIELD3": "1460",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "816",
+   "FIELD3": "669",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1442",
+   "FIELD3": "1556",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1654",
+   "FIELD3": "1629",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "951",
+   "FIELD3": "2011",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "2050",
+   "FIELD3": "2948",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "808",
+   "FIELD3": "1214",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1711",
+   "FIELD3": "1516",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1446",
+   "FIELD3": "732",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1014",
+   "FIELD3": "1361",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1813",
+   "FIELD3": "1659",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "1",
+   "FIELD2": "1914",
+   "FIELD3": "205",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "2028",
+   "FIELD3": "186",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "746",
+   "FIELD3": "222",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1800",
+   "FIELD3": "273",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1714",
+   "FIELD3": "315",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "953",
+   "FIELD3": "906",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1345",
+   "FIELD3": "1119",
+   "FIELD4": "0"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1607",
+   "FIELD3": "1177",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1151",
+   "FIELD3": "1407",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "853",
+   "FIELD3": "1937",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1454",
+   "FIELD3": "2013",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1643",
+   "FIELD3": "2071",
+   "FIELD4": "0"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "629",
+   "FIELD3": "2283",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "715",
+   "FIELD3": "219",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "2139",
+   "FIELD3": "1721",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1717",
+   "FIELD3": "1830",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1220",
+   "FIELD3": "2612",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1116",
+   "FIELD3": "260",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1859",
+   "FIELD3": "493",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1610",
+   "FIELD3": "680",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1324",
+   "FIELD3": "814",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "2133",
+   "FIELD3": "841",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "834",
+   "FIELD3": "1074",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1504",
+   "FIELD3": "1575",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "646",
+   "FIELD3": "1860",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1403",
+   "FIELD3": "2108",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1235",
+   "FIELD3": "113",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "754",
+   "FIELD3": "582",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1908",
+   "FIELD3": "2312",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1121",
+   "FIELD3": "1482",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1721",
+   "FIELD3": "1756",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1046",
+   "FIELD3": "1910",
+   "FIELD4": "0"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1534",
+   "FIELD3": "500",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "754",
+   "FIELD3": "2188",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1317",
+   "FIELD3": "398",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "731",
+   "FIELD3": "1485",
+   "FIELD4": "0"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1641",
+   "FIELD3": "1331",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "702",
+   "FIELD3": "1978",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "925",
+   "FIELD3": "2529",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1943",
+   "FIELD3": "2979",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1634",
+   "FIELD3": "1092",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "935",
+   "FIELD3": "1610",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1622",
+   "FIELD3": "1693",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "712",
+   "FIELD3": "2049",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "749",
+   "FIELD3": "280",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1655",
+   "FIELD3": "486",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "632",
+   "FIELD3": "711",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1323",
+   "FIELD3": "770",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1814",
+   "FIELD3": "805",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1055",
+   "FIELD3": "1047",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "2051",
+   "FIELD3": "1292",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1554",
+   "FIELD3": "1603",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "827",
+   "FIELD3": "2043",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1458",
+   "FIELD3": "267",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1902",
+   "FIELD3": "504",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1007",
+   "FIELD3": "1945",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1100",
+   "FIELD3": "2285",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1758",
+   "FIELD3": "145",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "650",
+   "FIELD3": "824",
+   "FIELD4": "0"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1244",
+   "FIELD3": "1103",
+   "FIELD4": "0"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "718",
+   "FIELD3": "472",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1603",
+   "FIELD3": "2160",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1226",
+   "FIELD3": "2320",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1925",
+   "FIELD3": "1115",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1330",
+   "FIELD3": "2418",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1918",
+   "FIELD3": "438",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "944",
+   "FIELD3": "1922",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1039",
+   "FIELD3": "1333",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1820",
+   "FIELD3": "1575",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "633",
+   "FIELD3": "2203",
+   "FIELD4": "0"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1748",
+   "FIELD3": "1758",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1142",
+   "FIELD3": "2705",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1629",
+   "FIELD3": "772",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1135",
+   "FIELD3": "1073",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1545",
+   "FIELD3": "557",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1029",
+   "FIELD3": "2684",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "723",
+   "FIELD3": "945",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1616",
+   "FIELD3": "2253",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1717",
+   "FIELD3": "1243",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "914",
+   "FIELD3": "172",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1517",
+   "FIELD3": "1929",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "737",
+   "FIELD3": "1565",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "946",
+   "FIELD3": "554",
+   "FIELD4": "0"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "2031",
+   "FIELD3": "794",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1256",
+   "FIELD3": "500",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "810",
+   "FIELD3": "1910",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1706",
+   "FIELD3": "2979",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1448",
+   "FIELD3": "123",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "840",
+   "FIELD3": "325",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1527",
+   "FIELD3": "1243",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1233",
+   "FIELD3": "333",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "616",
+   "FIELD3": "426",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1521",
+   "FIELD3": "825",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1956",
+   "FIELD3": "1268",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "850",
+   "FIELD3": "1277",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1801",
+   "FIELD3": "1350",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1105",
+   "FIELD3": "2127",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "2220",
+   "FIELD3": "2658",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "639",
+   "FIELD3": "546",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1142",
+   "FIELD3": "653",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1958",
+   "FIELD3": "1532",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "2",
+   "FIELD2": "1702",
+   "FIELD3": "1601",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "2008",
+   "FIELD3": "227",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1117",
+   "FIELD3": "1342",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "911",
+   "FIELD3": "1593",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "721",
+   "FIELD3": "15",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1452",
+   "FIELD3": "45",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "2114",
+   "FIELD3": "375",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "957",
+   "FIELD3": "2132",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1119",
+   "FIELD3": "2296",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1908",
+   "FIELD3": "2399",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1636",
+   "FIELD3": "2593",
+   "FIELD4": "0"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "640",
+   "FIELD3": "204",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1914",
+   "FIELD3": "749",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1133",
+   "FIELD3": "1166",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "701",
+   "FIELD3": "333",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1244",
+   "FIELD3": "2351",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1917",
+   "FIELD3": "2576",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1406",
+   "FIELD3": "399",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1803",
+   "FIELD3": "608",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1942",
+   "FIELD3": "673",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1614",
+   "FIELD3": "940",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1115",
+   "FIELD3": "2358",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "718",
+   "FIELD3": "2596",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "711",
+   "FIELD3": "729",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1931",
+   "FIELD3": "1660",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1222",
+   "FIELD3": "1783",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1715",
+   "FIELD3": "2383",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1557",
+   "FIELD3": "111",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1707",
+   "FIELD3": "1337",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1250",
+   "FIELD3": "1247",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1826",
+   "FIELD3": "2044",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1641",
+   "FIELD3": "521",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "916",
+   "FIELD3": "767",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "844",
+   "FIELD3": "297",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1430",
+   "FIELD3": "2597",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1845",
+   "FIELD3": "40",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1326",
+   "FIELD3": "809",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "720",
+   "FIELD3": "1598",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1632",
+   "FIELD3": "2695",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "2130",
+   "FIELD3": "158",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1738",
+   "FIELD3": "500",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "631",
+   "FIELD3": "793",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1633",
+   "FIELD3": "1119",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1220",
+   "FIELD3": "1505",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1931",
+   "FIELD3": "1756",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1547",
+   "FIELD3": "2014",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1453",
+   "FIELD3": "2334",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "849",
+   "FIELD3": "2632",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "735",
+   "FIELD3": "2774",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1038",
+   "FIELD3": "3073",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "854",
+   "FIELD3": "238",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1832",
+   "FIELD3": "291",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1519",
+   "FIELD3": "2230",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "953",
+   "FIELD3": "2442",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1403",
+   "FIELD3": "555",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1232",
+   "FIELD3": "357",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1444",
+   "FIELD3": "1968",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1023",
+   "FIELD3": "1117",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1945",
+   "FIELD3": "2081",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1302",
+   "FIELD3": "291",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1041",
+   "FIELD3": "495",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "842",
+   "FIELD3": "1021",
+   "FIELD4": "0"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1622",
+   "FIELD3": "1023",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "2035",
+   "FIELD3": "1420",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1718",
+   "FIELD3": "1854",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "727",
+   "FIELD3": "2612",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1434",
+   "FIELD3": "501",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1908",
+   "FIELD3": "1090",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "700",
+   "FIELD3": "1153",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1127",
+   "FIELD3": "1183",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1803",
+   "FIELD3": "128",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "639",
+   "FIELD3": "2297",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1450",
+   "FIELD3": "1285",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1615",
+   "FIELD3": "1119",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "714",
+   "FIELD3": "2774",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "631",
+   "FIELD3": "5",
+   "FIELD4": "0"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1939",
+   "FIELD3": "59",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1847",
+   "FIELD3": "213",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "910",
+   "FIELD3": "233",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1045",
+   "FIELD3": "241",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1345",
+   "FIELD3": "1342",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1434",
+   "FIELD3": "1608",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1733",
+   "FIELD3": "2364",
+   "FIELD4": "3"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1258",
+   "FIELD3": "16",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1940",
+   "FIELD3": "592",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1313",
+   "FIELD3": "999",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "701",
+   "FIELD3": "1070",
+   "FIELD4": "6"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1537",
+   "FIELD3": "1166",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "956",
+   "FIELD3": "1359",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "2057",
+   "FIELD3": "100",
+   "FIELD4": "5"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "0",
+   "FIELD3": "186",
+   "FIELD4": "1"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "743",
+   "FIELD3": "222",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1811",
+   "FIELD3": "273",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1731",
+   "FIELD3": "315",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1334",
+   "FIELD3": "1119",
+   "FIELD4": "8"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1150",
+   "FIELD3": "1407",
+   "FIELD4": "4"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "953",
+   "FIELD3": "1783",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "853",
+   "FIELD3": "1937",
+   "FIELD4": "7"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1454",
+   "FIELD3": "2013",
+   "FIELD4": "9"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1651",
+   "FIELD3": "2071",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "630",
+   "FIELD3": "2283",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "1641",
+   "FIELD3": "2818",
+   "FIELD4": "2"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1213",
+   "FIELD3": "616",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1951",
+   "FIELD3": "641",
+   "FIELD4": "21"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1307",
+   "FIELD3": "711",
+   "FIELD4": "11"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "829",
+   "FIELD3": "1064",
+   "FIELD4": "17"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "2050",
+   "FIELD3": "1462",
+   "FIELD4": "11"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1517",
+   "FIELD3": "1888",
+   "FIELD4": "19"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "2302",
+   "FIELD3": "1912",
+   "FIELD4": "12"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1030",
+   "FIELD3": "2035",
+   "FIELD4": "14"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1628",
+   "FIELD3": "2286",
+   "FIELD4": "15"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "710",
+   "FIELD3": "2395",
+   "FIELD4": "20"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1731",
+   "FIELD3": "2406",
+   "FIELD4": "11"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1016",
+   "FIELD3": "2340",
+   "FIELD4": "18"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "2010",
+   "FIELD3": "240",
+   "FIELD4": "11"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1340",
+   "FIELD3": "1844",
+   "FIELD4": "18"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "739",
+   "FIELD3": "2175",
+   "FIELD4": "14"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1409",
+   "FIELD3": "509",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "2055",
+   "FIELD3": "673",
+   "FIELD4": "11"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1609",
+   "FIELD3": "1098",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1053",
+   "FIELD3": "1423",
+   "FIELD4": "11"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1328",
+   "FIELD3": "1518",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1703",
+   "FIELD3": "1531",
+   "FIELD4": "18"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1844",
+   "FIELD3": "1764",
+   "FIELD4": "13"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "941",
+   "FIELD3": "1789",
+   "FIELD4": "16"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "657",
+   "FIELD3": "2480",
+   "FIELD4": "15"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "802",
+   "FIELD3": "2596",
+   "FIELD4": "24"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1608",
+   "FIELD3": "933",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "2215",
+   "FIELD3": "567",
+   "FIELD4": "13"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "808",
+   "FIELD3": "1707",
+   "FIELD4": "20"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1340",
+   "FIELD3": "2232",
+   "FIELD4": "18"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "821",
+   "FIELD3": "488",
+   "FIELD4": "21"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1650",
+   "FIELD3": "1398",
+   "FIELD4": "15"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "708",
+   "FIELD3": "290",
+   "FIELD4": "18"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1221",
+   "FIELD3": "383",
+   "FIELD4": "12"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "753",
+   "FIELD3": "516",
+   "FIELD4": "19"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1545",
+   "FIELD3": "536",
+   "FIELD4": "19"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1623",
+   "FIELD3": "689",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "943",
+   "FIELD3": "962",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1857",
+   "FIELD3": "1027",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1310",
+   "FIELD3": "1296",
+   "FIELD4": "12"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "2008",
+   "FIELD3": "1522",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "2226",
+   "FIELD3": "1602",
+   "FIELD4": "21"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1800",
+   "FIELD3": "1653",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1534",
+   "FIELD3": "1807",
+   "FIELD4": "22"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "617",
+   "FIELD3": "1981",
+   "FIELD4": "16"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "846",
+   "FIELD3": "2222",
+   "FIELD4": "21"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "2122",
+   "FIELD3": "2368",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1729",
+   "FIELD3": "2445",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "2037",
+   "FIELD3": "2566",
+   "FIELD4": "15"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1118",
+   "FIELD3": "2750",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1336",
+   "FIELD3": "2752",
+   "FIELD4": "24"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1025",
+   "FIELD3": "803",
+   "FIELD4": "18"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1446",
+   "FIELD3": "2659",
+   "FIELD4": "14"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1603",
+   "FIELD3": "1729",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1130",
+   "FIELD3": "2726",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1433",
+   "FIELD3": "296",
+   "FIELD4": "11"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "2019",
+   "FIELD3": "542",
+   "FIELD4": "20"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1746",
+   "FIELD3": "566",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "555",
+   "FIELD3": "957",
+   "FIELD4": "17"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "958",
+   "FIELD3": "1039",
+   "FIELD4": "14"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "838",
+   "FIELD3": "1198",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1615",
+   "FIELD3": "1221",
+   "FIELD4": "17"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1123",
+   "FIELD3": "1496",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "653",
+   "FIELD3": "1605",
+   "FIELD4": "21"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "2159",
+   "FIELD3": "1933",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "2049",
+   "FIELD3": "1969",
+   "FIELD4": "13"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1859",
+   "FIELD3": "1999",
+   "FIELD4": "18"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1313",
+   "FIELD3": "2504",
+   "FIELD4": "22"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1146",
+   "FIELD3": "335",
+   "FIELD4": "22"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1755",
+   "FIELD3": "501",
+   "FIELD4": "12"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1319",
+   "FIELD3": "643",
+   "FIELD4": "18"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "2213",
+   "FIELD3": "955",
+   "FIELD4": "22"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1658",
+   "FIELD3": "1116",
+   "FIELD4": "19"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1040",
+   "FIELD3": "1214",
+   "FIELD4": "24"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "807",
+   "FIELD3": "1480",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1402",
+   "FIELD3": "1976",
+   "FIELD4": "22"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "2005",
+   "FIELD3": "2067",
+   "FIELD4": "18"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "733",
+   "FIELD3": "2078",
+   "FIELD4": "21"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1531",
+   "FIELD3": "2466",
+   "FIELD4": "13"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "629",
+   "FIELD3": "2749",
+   "FIELD4": "24"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "2007",
+   "FIELD3": "2860",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "2121",
+   "FIELD3": "2879",
+   "FIELD4": "11"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "919",
+   "FIELD3": "663",
+   "FIELD4": "20"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1652",
+   "FIELD3": "2381",
+   "FIELD4": "14"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1949",
+   "FIELD3": "2674",
+   "FIELD4": "19"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1205",
+   "FIELD3": "2925",
+   "FIELD4": "12"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1822",
+   "FIELD3": "1276",
+   "FIELD4": "24"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1051",
+   "FIELD3": "815",
+   "FIELD4": "24"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1436",
+   "FIELD3": "1997",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "2041",
+   "FIELD3": "2723",
+   "FIELD4": "18"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "916",
+   "FIELD3": "582",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "2151",
+   "FIELD3": "709",
+   "FIELD4": "21"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1412",
+   "FIELD3": "985",
+   "FIELD4": "12"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1950",
+   "FIELD3": "1315",
+   "FIELD4": "21"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "602",
+   "FIELD3": "1621",
+   "FIELD4": "17"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1120",
+   "FIELD3": "1931",
+   "FIELD4": "20"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1646",
+   "FIELD3": "2705",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "2126",
+   "FIELD3": "243",
+   "FIELD4": "24"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "1132",
+   "FIELD3": "283",
+   "FIELD4": "20"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "2007",
+   "FIELD3": "551",
+   "FIELD4": "22"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "556",
+   "FIELD3": "718",
+   "FIELD4": "11"
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "2146",
+   "FIELD3": "1024",
+   "FIELD4": "18"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "2057",
+   "FIELD3": "40",
+   "FIELD4": "15"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1318",
+   "FIELD3": "723",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "700",
+   "FIELD3": "1598",
+   "FIELD4": "21"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1632",
+   "FIELD3": "2695",
+   "FIELD4": "11"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "2139",
+   "FIELD3": "158",
+   "FIELD4": "22"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1058",
+   "FIELD3": "341",
+   "FIELD4": "21"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1831",
+   "FIELD3": "500",
+   "FIELD4": "17"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "616",
+   "FIELD3": "793",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1220",
+   "FIELD3": "1505",
+   "FIELD4": "16"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "846",
+   "FIELD3": "1636",
+   "FIELD4": "15"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "2002",
+   "FIELD3": "1756",
+   "FIELD4": "24"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1531",
+   "FIELD3": "2014",
+   "FIELD4": "12"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1702",
+   "FIELD3": "2153",
+   "FIELD4": "18"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1508",
+   "FIELD3": "2334",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "751",
+   "FIELD3": "2774",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "849",
+   "FIELD3": "238",
+   "FIELD4": "14"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1911",
+   "FIELD3": "896",
+   "FIELD4": "14"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1538",
+   "FIELD3": "2230",
+   "FIELD4": "17"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "955",
+   "FIELD3": "2442",
+   "FIELD4": "24"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1349",
+   "FIELD3": "555",
+   "FIELD4": "14"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1226",
+   "FIELD3": "357",
+   "FIELD4": "20"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1443",
+   "FIELD3": "1968",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1035",
+   "FIELD3": "1117",
+   "FIELD4": "17"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1942",
+   "FIELD3": "2081",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1037",
+   "FIELD3": "495",
+   "FIELD4": "18"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1257",
+   "FIELD3": "896",
+   "FIELD4": "14"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "914",
+   "FIELD3": "1021",
+   "FIELD4": "22"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1627",
+   "FIELD3": "1023",
+   "FIELD4": "18"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "2011",
+   "FIELD3": "1420",
+   "FIELD4": "13"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1850",
+   "FIELD3": "1854",
+   "FIELD4": "19"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "722",
+   "FIELD3": "2612",
+   "FIELD4": "19"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1430",
+   "FIELD3": "501",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1906",
+   "FIELD3": "1090",
+   "FIELD4": "17"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "701",
+   "FIELD3": "1153",
+   "FIELD4": "20"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1109",
+   "FIELD3": "1183",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1740",
+   "FIELD3": "128",
+   "FIELD4": "22"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "630",
+   "FIELD3": "2297",
+   "FIELD4": "11"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1447",
+   "FIELD3": "2167",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1631",
+   "FIELD3": "2153",
+   "FIELD4": "20"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "721",
+   "FIELD3": "2774",
+   "FIELD4": "15"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "635",
+   "FIELD3": "5",
+   "FIELD4": "16"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "0",
+   "FIELD3": "59",
+   "FIELD4": "12"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "2102",
+   "FIELD3": "213",
+   "FIELD4": "24"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "0",
+   "FIELD3": "233",
+   "FIELD4": "20"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1151",
+   "FIELD3": "241",
+   "FIELD4": "21"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1343",
+   "FIELD3": "290",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1451",
+   "FIELD3": "1608",
+   "FIELD4": "14"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1739",
+   "FIELD3": "1746",
+   "FIELD4": "14"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1256",
+   "FIELD3": "16",
+   "FIELD4": "11"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1921",
+   "FIELD3": "592",
+   "FIELD4": "20"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1306",
+   "FIELD3": "999",
+   "FIELD4": "22"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "659",
+   "FIELD3": "1070",
+   "FIELD4": "18"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1605",
+   "FIELD3": "875",
+   "FIELD4": "13"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "947",
+   "FIELD3": "1359",
+   "FIELD4": "12"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "2127",
+   "FIELD3": "186",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "2117",
+   "FIELD3": "273",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1727",
+   "FIELD3": "315",
+   "FIELD4": "20"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1604",
+   "FIELD3": "434",
+   "FIELD4": "12"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "2123",
+   "FIELD3": "1337",
+   "FIELD4": "18"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1150",
+   "FIELD3": "1407",
+   "FIELD4": "20"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "729",
+   "FIELD3": "1423",
+   "FIELD4": "18"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1013",
+   "FIELD3": "1783",
+   "FIELD4": "15"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1526",
+   "FIELD3": "2013",
+   "FIELD4": "20"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1644",
+   "FIELD3": "2071",
+   "FIELD4": "13"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1331",
+   "FIELD3": "2153",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "625",
+   "FIELD3": "2283",
+   "FIELD4": "15"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "826",
+   "FIELD3": "2720",
+   "FIELD4": "24"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "2140",
+   "FIELD3": "120",
+   "FIELD4": "18"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "703",
+   "FIELD3": "219",
+   "FIELD4": "20"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1735",
+   "FIELD3": "1830",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1222",
+   "FIELD3": "2612",
+   "FIELD4": "17"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1133",
+   "FIELD3": "260",
+   "FIELD4": "18"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1628",
+   "FIELD3": "352",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1848",
+   "FIELD3": "493",
+   "FIELD4": "17"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1318",
+   "FIELD3": "814",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "2107",
+   "FIELD3": "841",
+   "FIELD4": "19"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "822",
+   "FIELD3": "1074",
+   "FIELD4": "16"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1513",
+   "FIELD3": "1428",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "641",
+   "FIELD3": "1860",
+   "FIELD4": "14"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1406",
+   "FIELD3": "2108",
+   "FIELD4": "16"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1238",
+   "FIELD3": "113",
+   "FIELD4": "14"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "751",
+   "FIELD3": "582",
+   "FIELD4": "24"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1923",
+   "FIELD3": "2312",
+   "FIELD4": "24"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1104",
+   "FIELD3": "1482",
+   "FIELD4": "19"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1047",
+   "FIELD3": "1526",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1741",
+   "FIELD3": "1756",
+   "FIELD4": "10"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1530",
+   "FIELD3": "500",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "825",
+   "FIELD3": "2188",
+   "FIELD4": "19"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1309",
+   "FIELD3": "398",
+   "FIELD4": "11"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "728",
+   "FIELD3": "1485",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1717",
+   "FIELD3": "1331",
+   "FIELD4": "18"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "701",
+   "FIELD3": "1978",
+   "FIELD4": "23"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "938",
+   "FIELD3": "2529",
+   "FIELD4": "19"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1944",
+   "FIELD3": "2979",
+   "FIELD4": "16"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1631",
+   "FIELD3": "1092",
+   "FIELD4": "16"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "932",
+   "FIELD3": "1610",
+   "FIELD4": "16"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1602",
+   "FIELD3": "1693",
+   "FIELD4": "11"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "700",
+   "FIELD3": "2049",
+   "FIELD4": "12"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "751",
+   "FIELD3": "280",
+   "FIELD4": "21"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "1634",
+   "FIELD3": "486",
+   "FIELD4": "18"
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "635",
+   "FIELD3": "711",
+   "FIELD4": "14"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1255",
+   "FIELD3": "1124",
+   "FIELD4": "41"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "624",
+   "FIELD3": "1480",
+   "FIELD4": "28"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "942",
+   "FIELD3": "1496",
+   "FIELD4": "49"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1702",
+   "FIELD3": "2025",
+   "FIELD4": "31"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1957",
+   "FIELD3": "325",
+   "FIELD4": "27"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1052",
+   "FIELD3": "1565",
+   "FIELD4": "33"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1636",
+   "FIELD3": "1586",
+   "FIELD4": "45"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "719",
+   "FIELD3": "2271",
+   "FIELD4": "45"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1230",
+   "FIELD3": "108",
+   "FIELD4": "28"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1915",
+   "FIELD3": "1436",
+   "FIELD4": "37"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "701",
+   "FIELD3": "1809",
+   "FIELD4": "45"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1447",
+   "FIELD3": "258",
+   "FIELD4": "30"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1628",
+   "FIELD3": "648",
+   "FIELD4": "30"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1336",
+   "FIELD3": "1770",
+   "FIELD4": "40"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1957",
+   "FIELD3": "1916",
+   "FIELD4": "49"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "835",
+   "FIELD3": "2143",
+   "FIELD4": "37"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "720",
+   "FIELD3": "2187",
+   "FIELD4": "44"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1109",
+   "FIELD3": "2257",
+   "FIELD4": "34"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1759",
+   "FIELD3": "2405",
+   "FIELD4": "37"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1546",
+   "FIELD3": "585",
+   "FIELD4": "35"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "836",
+   "FIELD3": "1013",
+   "FIELD4": "47"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1128",
+   "FIELD3": "929",
+   "FIELD4": "44"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1730",
+   "FIELD3": "1699",
+   "FIELD4": "35"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1930",
+   "FIELD3": "2554",
+   "FIELD4": "42"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1614",
+   "FIELD3": "1390",
+   "FIELD4": "25"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1056",
+   "FIELD3": "2801",
+   "FIELD4": "28"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1923",
+   "FIELD3": "771",
+   "FIELD4": "29"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "913",
+   "FIELD3": "2837",
+   "FIELD4": "34"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1625",
+   "FIELD3": "2112",
+   "FIELD4": "46"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1551",
+   "FIELD3": "742",
+   "FIELD4": "40"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1808",
+   "FIELD3": "207",
+   "FIELD4": "39"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1539",
+   "FIELD3": "344",
+   "FIELD4": "40"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1825",
+   "FIELD3": "1123",
+   "FIELD4": "47"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1158",
+   "FIELD3": "1179",
+   "FIELD4": "26"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1237",
+   "FIELD3": "1397",
+   "FIELD4": "37"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1825",
+   "FIELD3": "1637",
+   "FIELD4": "41"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1431",
+   "FIELD3": "1138",
+   "FIELD4": "36"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "821",
+   "FIELD3": "1611",
+   "FIELD4": "31"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1604",
+   "FIELD3": "97",
+   "FIELD4": "33"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "852",
+   "FIELD3": "1973",
+   "FIELD4": "40"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1120",
+   "FIELD3": "482",
+   "FIELD4": "45"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1619",
+   "FIELD3": "2119",
+   "FIELD4": "33"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "757",
+   "FIELD3": "2656",
+   "FIELD4": "27"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1411",
+   "FIELD3": "1092",
+   "FIELD4": "41"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "741",
+   "FIELD3": "1260",
+   "FIELD4": "32"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1942",
+   "FIELD3": "2315",
+   "FIELD4": "33"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1145",
+   "FIELD3": "2906",
+   "FIELD4": "38"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "815",
+   "FIELD3": "172",
+   "FIELD4": "35"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1655",
+   "FIELD3": "586",
+   "FIELD4": "36"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "957",
+   "FIELD3": "1237",
+   "FIELD4": "30"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1525",
+   "FIELD3": "1601",
+   "FIELD4": "27"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1250",
+   "FIELD3": "397",
+   "FIELD4": "35"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "934",
+   "FIELD3": "2021",
+   "FIELD4": "45"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1644",
+   "FIELD3": "2490",
+   "FIELD4": "27"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1132",
+   "FIELD3": "216",
+   "FIELD4": "33"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "2020",
+   "FIELD3": "609",
+   "FIELD4": "26"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1842",
+   "FIELD3": "1203",
+   "FIELD4": "49"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1006",
+   "FIELD3": "1219",
+   "FIELD4": "46"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "2119",
+   "FIELD3": "1558",
+   "FIELD4": "29"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1403",
+   "FIELD3": "1594",
+   "FIELD4": "44"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1439",
+   "FIELD3": "1688",
+   "FIELD4": "32"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1106",
+   "FIELD3": "1804",
+   "FIELD4": "31"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1528",
+   "FIELD3": "1433",
+   "FIELD4": "29"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1854",
+   "FIELD3": "2497",
+   "FIELD4": "38"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1034",
+   "FIELD3": "1966",
+   "FIELD4": "47"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1951",
+   "FIELD3": "2345",
+   "FIELD4": "42"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1516",
+   "FIELD3": "2502",
+   "FIELD4": "34"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1859",
+   "FIELD3": "1020",
+   "FIELD4": "26"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1057",
+   "FIELD3": "135",
+   "FIELD4": "44"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1548",
+   "FIELD3": "444",
+   "FIELD4": "26"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "2157",
+   "FIELD3": "521",
+   "FIELD4": "45"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1316",
+   "FIELD3": "1074",
+   "FIELD4": "31"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1602",
+   "FIELD3": "2197",
+   "FIELD4": "43"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1448",
+   "FIELD3": "217",
+   "FIELD4": "48"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1835",
+   "FIELD3": "1442",
+   "FIELD4": "48"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1037",
+   "FIELD3": "1546",
+   "FIELD4": "37"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1430",
+   "FIELD3": "1908",
+   "FIELD4": "29"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "927",
+   "FIELD3": "2905",
+   "FIELD4": "38"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1305",
+   "FIELD3": "2779",
+   "FIELD4": "28"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1939",
+   "FIELD3": "171",
+   "FIELD4": "46"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "655",
+   "FIELD3": "1086",
+   "FIELD4": "42"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1227",
+   "FIELD3": "1446",
+   "FIELD4": "36"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "941",
+   "FIELD3": "2400",
+   "FIELD4": "27"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1742",
+   "FIELD3": "2897",
+   "FIELD4": "39"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1551",
+   "FIELD3": "2292",
+   "FIELD4": "47"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1647",
+   "FIELD3": "1545",
+   "FIELD4": "38"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "715",
+   "FIELD3": "1496",
+   "FIELD4": "45"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1402",
+   "FIELD3": "2112",
+   "FIELD4": "39"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1656",
+   "FIELD3": "2554",
+   "FIELD4": "44"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1820",
+   "FIELD3": "365",
+   "FIELD4": "31"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1057",
+   "FIELD3": "1114",
+   "FIELD4": "35"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1658",
+   "FIELD3": "1416",
+   "FIELD4": "27"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "704",
+   "FIELD3": "1453",
+   "FIELD4": "25"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1828",
+   "FIELD3": "2735",
+   "FIELD4": "40"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1338",
+   "FIELD3": "2956",
+   "FIELD4": "30"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1125",
+   "FIELD3": "1721",
+   "FIELD4": "39"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1635",
+   "FIELD3": "2273",
+   "FIELD4": "31"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "651",
+   "FIELD3": "2560",
+   "FIELD4": "26"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1040",
+   "FIELD3": "2601",
+   "FIELD4": "31"
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "1300",
+   "FIELD3": "2733",
+   "FIELD4": "26"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1000",
+   "FIELD3": "816",
+   "FIELD4": "44"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "2020",
+   "FIELD3": "1824",
+   "FIELD4": "33"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1702",
+   "FIELD3": "2802",
+   "FIELD4": "43"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1725",
+   "FIELD3": "185",
+   "FIELD4": "26"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1250",
+   "FIELD3": "317",
+   "FIELD4": "28"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1605",
+   "FIELD3": "1956",
+   "FIELD4": "46"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1924",
+   "FIELD3": "2162",
+   "FIELD4": "42"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "845",
+   "FIELD3": "2698",
+   "FIELD4": "30"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1405",
+   "FIELD3": "377",
+   "FIELD4": "35"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "740",
+   "FIELD3": "1654",
+   "FIELD4": "31"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1051",
+   "FIELD3": "332",
+   "FIELD4": "27"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "653",
+   "FIELD3": "580",
+   "FIELD4": "43"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1902",
+   "FIELD3": "717",
+   "FIELD4": "42"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "905",
+   "FIELD3": "660",
+   "FIELD4": "30"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1220",
+   "FIELD3": "1287",
+   "FIELD4": "48"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "2115",
+   "FIELD3": "2160",
+   "FIELD4": "40"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1541",
+   "FIELD3": "2979",
+   "FIELD4": "48"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1118",
+   "FIELD3": "480",
+   "FIELD4": "37"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1713",
+   "FIELD3": "914",
+   "FIELD4": "30"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "933",
+   "FIELD3": "1624",
+   "FIELD4": "49"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "2146",
+   "FIELD3": "1904",
+   "FIELD4": "25"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1345",
+   "FIELD3": "2319",
+   "FIELD4": "43"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1329",
+   "FIELD3": "1221",
+   "FIELD4": "48"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1014",
+   "FIELD3": "95",
+   "FIELD4": "27"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "2029",
+   "FIELD3": "2171",
+   "FIELD4": "40"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "839",
+   "FIELD3": "2472",
+   "FIELD4": "29"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1642",
+   "FIELD3": "2764",
+   "FIELD4": "37"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "720",
+   "FIELD3": "1069",
+   "FIELD4": "47"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1829",
+   "FIELD3": "1250",
+   "FIELD4": "44"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1539",
+   "FIELD3": "1600",
+   "FIELD4": "25"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1010",
+   "FIELD3": "2680",
+   "FIELD4": "31"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "917",
+   "FIELD3": "262",
+   "FIELD4": "28"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1801",
+   "FIELD3": "286",
+   "FIELD4": "39"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1217",
+   "FIELD3": "2207",
+   "FIELD4": "35"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "639",
+   "FIELD3": "2330",
+   "FIELD4": "29"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "2014",
+   "FIELD3": "2459",
+   "FIELD4": "34"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1641",
+   "FIELD3": "478",
+   "FIELD4": "40"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "745",
+   "FIELD3": "2335",
+   "FIELD4": "49"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1912",
+   "FIELD3": "366",
+   "FIELD4": "27"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1210",
+   "FIELD3": "1302",
+   "FIELD4": "44"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "745",
+   "FIELD3": "2252",
+   "FIELD4": "37"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "2021",
+   "FIELD3": "161",
+   "FIELD4": "44"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1237",
+   "FIELD3": "229",
+   "FIELD4": "49"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "904",
+   "FIELD3": "797",
+   "FIELD4": "49"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1911",
+   "FIELD3": "581",
+   "FIELD4": "47"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "835",
+   "FIELD3": "772",
+   "FIELD4": "34"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "2211",
+   "FIELD3": "1035",
+   "FIELD4": "49"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "742",
+   "FIELD3": "1107",
+   "FIELD4": "35"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1453",
+   "FIELD3": "1116",
+   "FIELD4": "37"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1352",
+   "FIELD3": "1258",
+   "FIELD4": "28"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1944",
+   "FIELD3": "1356",
+   "FIELD4": "44"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1657",
+   "FIELD3": "1764",
+   "FIELD4": "30"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1020",
+   "FIELD3": "1812",
+   "FIELD4": "33"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1621",
+   "FIELD3": "1813",
+   "FIELD4": "40"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1058",
+   "FIELD3": "2303",
+   "FIELD4": "26"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1753",
+   "FIELD3": "2661",
+   "FIELD4": "27"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "852",
+   "FIELD3": "1762",
+   "FIELD4": "36"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1554",
+   "FIELD3": "2748",
+   "FIELD4": "28"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1843",
+   "FIELD3": "2806",
+   "FIELD4": "42"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1325",
+   "FIELD3": "1967",
+   "FIELD4": "33"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "2108",
+   "FIELD3": "306",
+   "FIELD4": "44"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "609",
+   "FIELD3": "1233",
+   "FIELD4": "39"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "908",
+   "FIELD3": "1400",
+   "FIELD4": "35"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1614",
+   "FIELD3": "1879",
+   "FIELD4": "26"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1817",
+   "FIELD3": "1927",
+   "FIELD4": "28"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1222",
+   "FIELD3": "1218",
+   "FIELD4": "26"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "2216",
+   "FIELD3": "2383",
+   "FIELD4": "38"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1540",
+   "FIELD3": "2509",
+   "FIELD4": "30"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1213",
+   "FIELD3": "647",
+   "FIELD4": "38"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1410",
+   "FIELD3": "832",
+   "FIELD4": "48"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "711",
+   "FIELD3": "2367",
+   "FIELD4": "38"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1407",
+   "FIELD3": "1496",
+   "FIELD4": "47"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1943",
+   "FIELD3": "1701",
+   "FIELD4": "39"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1325",
+   "FIELD3": "303",
+   "FIELD4": "38"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1901",
+   "FIELD3": "566",
+   "FIELD4": "33"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "617",
+   "FIELD3": "973",
+   "FIELD4": "33"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1550",
+   "FIELD3": "990",
+   "FIELD4": "33"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "2017",
+   "FIELD3": "1999",
+   "FIELD4": "37"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "834",
+   "FIELD3": "2164",
+   "FIELD4": "40"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "923",
+   "FIELD3": "686",
+   "FIELD4": "29"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1751",
+   "FIELD3": "1147",
+   "FIELD4": "39"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1106",
+   "FIELD3": "1271",
+   "FIELD4": "38"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1830",
+   "FIELD3": "251",
+   "FIELD4": "37"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1656",
+   "FIELD3": "365",
+   "FIELD4": "41"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "704",
+   "FIELD3": "652",
+   "FIELD4": "26"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1250",
+   "FIELD3": "661",
+   "FIELD4": "26"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "2029",
+   "FIELD3": "456",
+   "FIELD4": "26"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "755",
+   "FIELD3": "1510",
+   "FIELD4": "25"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1154",
+   "FIELD3": "2556",
+   "FIELD4": "33"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1548",
+   "FIELD3": "234",
+   "FIELD4": "32"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "915",
+   "FIELD3": "973",
+   "FIELD4": "37"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1922",
+   "FIELD3": "1604",
+   "FIELD4": "36"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1219",
+   "FIELD3": "2510",
+   "FIELD4": "27"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "759",
+   "FIELD3": "398",
+   "FIELD4": "28"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1616",
+   "FIELD3": "841",
+   "FIELD4": "31"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "731",
+   "FIELD3": "286",
+   "FIELD4": "38"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1359",
+   "FIELD3": "1268",
+   "FIELD4": "48"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "702",
+   "FIELD3": "1222",
+   "FIELD4": "40"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1252",
+   "FIELD3": "2114",
+   "FIELD4": "40"
+ },
+ {
+   "FIELD1": "7",
+   "FIELD2": "1044",
+   "FIELD3": "1162",
+   "FIELD4": "29"
+ }
+]
